@@ -4,6 +4,8 @@
         "attiny",
         "lgcc",
         "mmcu",
-        "Rahix's"
+        "Rahix's",
+        "ufmt",
+        "uwriteln"
     ]
 }
